@@ -1,3 +1,3 @@
 # Patika SQL
 
-## Buraya Patika.dev üzerindeki SQL eğitimi çalışmalarımı yükleyeceğim
+Buradan Patika.dev üzerindeki SQL eğitimi çalışmalarımı görebilirsiniz.
