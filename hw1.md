@@ -3,41 +3,37 @@
 ### 1. Soru
 
 > ```SQL
-> SELECT title,description FROM film
+> SELECT title,description FROM film;
 > ```
 
-### 1. Soru
+### 2. Soru
 
 > ```SQL
-> SELECT title,description FROM film
+>  SELECT * FROM film
+>   WHERE length
+> BETWEEN 61 AND 74;
 > ```
 
-### 1. Soru
+### 3. Soru
 
 > ```SQL
-> SELECT title,description FROM film
+> SELECT * FROM film
+>  WHERE rental_rate =  0.99
+>    AND replacement_cost IN (12.99,28.99)
 > ```
 
-### 1. Soru
+### 4. Soru
 
 > ```SQL
-> SELECT title,description FROM film
+> SELECT last_name FROM customer
+> WHERE first_name = 'Mary';
+> -- cevap : Smith
 > ```
 
-### 1. Soru
+### 5. Soru
 
 > ```SQL
-> SELECT title,description FROM film
-> ```
-
-### 1. Soru
-
-> ```SQL
-> SELECT title,description FROM film
-> ```
-
-### 1. Soru
-
-> ```SQL
-> SELECT title,description FROM film
+> SELECT * FROM film
+> WHERE length <= 50
+> AND rental_rate NOT IN (2.99,4.99);
 > ```
