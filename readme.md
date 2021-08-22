@@ -14,5 +14,3 @@ Buradan Patika.dev üzerindeki SQL eğitimi çalışmalarımı görebilirsiniz.
 - [Ödev 10](https://github.com/Atakatom/SQL_Patika/blob/master/hw10.md "hw10")
 - [Ödev 11](https://github.com/Atakatom/SQL_Patika/blob/master/hw11.md "hw11")
 - [Ödev 12](https://github.com/Atakatom/SQL_Patika/blob/master/hw12.md "hw12")
-
-https://github.com/Atakatom/SQL_Patika/blob/master/hw3.md
